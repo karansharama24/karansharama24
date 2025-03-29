@@ -1,6 +1,6 @@
 ----
 
-👋 Hi, I’m Karan Sharma (@karansharma24)
+👋 Hi, I’m Karan Sharma 
 
 🚀 Cloud Enthusiast | Web Developer | DevOps Learner
 
