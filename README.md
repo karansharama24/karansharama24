@@ -88,7 +88,7 @@ I am a **Cloud Engineer and Web Developer** passionate about designing scalable 
 ---
 
 ## 🔥 GitHub Activity  
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=karansharma24&theme=github-dark)
+![GitHub Activity Graph]((https://github-readme-activity-graph.vercel.app/graph?username=AKaushik2710&theme=github-dark)
 
 ---
 
