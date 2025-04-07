@@ -2,17 +2,19 @@
 
 # Hi there! 👋 I'm Karan Sharma  
 
-### 🚀 Cloud Engineer | Front-End Developer | DevOps Enthusiast  
+### 🚀 Cloud Engineer |  AWS re/Start Graduate | DevOps Enthusiast  
 
-I am a **Cloud Engineer and Web Developer** passionate about designing scalable cloud solutions and automating workflows. With hands-on experience in **AWS, Python, Networking, and Web Development**, I aim to build efficient and secure cloud-based applications.  
+I am a **Cloud Engineer and Web Developer** passionate about designing scalable cloud solutions and automating workflows. With hands-on experience in **AWS, Python, Networking, and Web Development**, I aim to build efficient and secure cloud-based applications.
 
 📍 **Current Focus:** AWS | DevOps | Website Deployment | System Design  
 
----
+## 🎓 Education
 
-## 📚 Education 🎓  
-- 🎓 **B.Tech in Computer Science & Engineering** (2020 - 2024) - Baba Mastnath University  
-- 🏫 **AWS re/Start Graduate** - Cloud Fundamentals & Hands-on Training  
+- **B.Tech in Computer Science & Engineering**  
+  *Baba Mastnath University* (2020 - 2024)
+
+- **AWS re/Start Program Graduate**  
+  *Vinsys IT Services* – Training on AWS Cloud, Python, Linux, Networking, and DevOps tools
 
 ---
 
@@ -24,48 +26,69 @@ I am a **Cloud Engineer and Web Developer** passionate about designing scalable 
 
 ---
 
+## 📜 Certifications
+
+- ✅ **AWS Certified Cloud Practitioner**  
+  [Credly Badge](https://www.credly.com/users/karan-sharma.4fe00072)
+
+- ✅ **AWS re/Start Graduate**  
+  [Credly Badge](https://www.credly.com/users/karan-sharma.4fe00072)
+
 ## 🛠️ Tech Stack & Skills 🚀  
 
-### **💻 Programming & Scripting:**  
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)  
+- **AWS**: EC2, S3, IAM, Lambda, VPC, CloudFormation, RDS, CloudWatch
+- **Terraform**: Infrastructure as Code
+- **GitHub Actions**: CI/CD Pipelines
+- **Boto3**: AWS SDK for Python
+- **Linux**: Bash scripting, CLI tools
 
-### **☁️ Cloud & DevOps:**  
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)  
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)  
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)  
+### 💻 Programming & Scripting
+- Python | C | JavaScript
 
-### **🖥️ Web Development:**  
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)  
+### 🌐 Front-End Development
+- HTML | CSS | Bootstrap | React
 
-### **🗄️ Databases:**  
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)  
+### 🗃️ Databases
+- MySQL | NoSQL (Basics)
 
-### **🛠️ Tools & Platforms:**  
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)  
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)  
+### 🔧 Tools & Platforms
+- Git & GitHub | VS Code | Docker (Basics)
 
 ---
 
-## 📊 GitHub Stats 🌟  
+## 💼 Projects & Experience
+
+### 🔧 AWS Cloud Projects
+- **Static Website Hosting with Amazon S3**
+- **Custom VPC & EC2 Instance Setup using AWS CLI**
+- **Terraform-Based Infrastructure Deployment**
+- **CI/CD Integration with GitHub Actions**
+
+### 🧪 Work Experience
+- **Software Developer Trainee** – *Connect Icon*  
+  - Worked on backend data integration & technical support
+
+- **AWS Trainee** – *Vinsys IT Services*  
+  - Hands-on with real-world cloud deployment and automation labs
+
+---
+
+## 📈 GitHub Stats & Contributions
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=karansharma24&show_icons=true&theme=dark" width="400px" />
-  <img src="https://streak-stats.demolab.com?user=karansharma24&theme=dark&hide_border=true" width="400px" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AKaushik2710&show_icons=true&theme=tokyonight" width="400px" />
+  <img src="https://streak-stats.demolab.com?user=AKaushik2710&theme=tokyonight&hide_border=true" width="400px" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=karansharma24&layout=compact&theme=dark" width="400px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AKaushik2710&layout=compact&theme=tokyonight" width="400px" />
 </p>
+
 
 ---
 
 ## 🔥 GitHub Activity  
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=karansharma24&theme=github-dark)  
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=karansharma24&theme=github-dark)
 
 ---
 
