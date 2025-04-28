@@ -1,6 +1,6 @@
 ---
 
-# Hi there! 👋 I'm Karan Sharma  
+# Hi there! 👋 I'm Karan Sharma 
 
 ### 🚀 Cloud Engineer |  AWS re/Start Graduate | DevOps Enthusiast  
 
